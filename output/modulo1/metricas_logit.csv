@@ -1,6 +1,0 @@
-.metric,.estimator,.estimate
-accuracy,binary,0.91
-precision,binary,0.7352941176470589
-recall,binary,0.7352941176470589
-f_meas,binary,0.735294117647059
-roc_auc,binary,0.9466690290574056

@@ -1,7 +1,0 @@
-modelo,.metric,.estimator,.estimate
-RF,f_meas,binary,0.9310344827586207
-RF,pr_auc,binary,0.9890569743826999
-RF,roc_auc,binary,0.9454287739192062
-GBM,f_meas,binary,0.9391304347826086
-GBM,pr_auc,binary,0.9898015936889091
-GBM,roc_auc,binary,0.9496810772501769

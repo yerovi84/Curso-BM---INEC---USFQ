@@ -1,4 +1,0 @@
-.metric,.estimator,.estimate,.config
-f_meas,binary,0.9380530973451328,pre0_mod0_post0
-pr_auc,binary,0.9852175932671086,pre0_mod0_post0
-roc_auc,binary,0.9303685329553507,pre0_mod0_post0
